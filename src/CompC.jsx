@@ -12,7 +12,7 @@ const CompC = () => {
                         {(lname) => {
                             return (
                                 <h1>
-                                    My name is {fname} {lname}
+                                    {/* My name is {fname} {lname} */}
                                 </h1>
                             )
                         }}
